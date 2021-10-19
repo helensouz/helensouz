@@ -16,7 +16,9 @@
   <img align="center" alt="Helen-CSS" height="25" width="75" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="Helen-Bootstrap" height="25" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
    </div>
-  
+   <div>
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://imgur.com/a/m92rnxr">
+   </div>
   
   
   ##
