@@ -15,7 +15,7 @@
  <img align="center" alt="Helen-Java" height="25" width="75" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Helen-CSS" height="25" width="75" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="Helen-Bootstrap" height="25" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img src="https://discord.com/channels/@me/713835977055142019/900171735675043900\Publicacoes_Instagram_1_1.png?width=676&height=676" align="right" alt="HELEN-pic" height="150" style="border-radius:50px;">
+ <img src="https://discord.com/channels/@me/713835977055142019/900171735675043900/Publicacoes_Instagram_1_1.png?width=676&height=676" align="right" alt="HELEN-pic" height="150" style="border-radius:50px;">
    </div>
   
   
