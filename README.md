@@ -1,6 +1,6 @@
 
 
-# E aí, belezinha!
+# E aí, belezinha?
 
 Me chamo Helen Souza e sou uma Desenvolvedora Web, estudante de Análises e desenvolvimento de Sistemas.  Sou apaixonada por tech e por quebrar a cabeça resolvendo bugs.
 Bom, se chegou até aqui, fique a vontade para ver meus projetinhos! Ficarei muito feliz se der um follow também :)
