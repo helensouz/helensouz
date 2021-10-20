@@ -1,6 +1,9 @@
 
 ## Olá, Me chamo Helen Souza
  <div>
+   <div>
+ <a href="https://ibb.co/jTmpzCJ"><img src="https://i.ibb.co/jTmpzCJ/download20211002203647.png" alt="download20211002203647" border="0"></a>
+   </div>
   <a href="https://github.com/helensouz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helensouz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helensouz&layout=compact&langs_count=7&theme=dracula"/>
@@ -18,9 +21,7 @@
 <img align="center" alt="Helen-Bootstrap" height="25" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
    </div>
-   <div>
- <a href="https://ibb.co/jTmpzCJ"><img src="https://i.ibb.co/jTmpzCJ/download20211002203647.png" alt="download20211002203647" border="0"></a>
-   </div>
+ 
   ##
  
 <div> 
