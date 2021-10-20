@@ -14,7 +14,7 @@ Bom, se chegou até aqui, fique a vontade para ver meus projetinhos! Ficarei mui
 
 
 
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <div>
  <a href="https://ibb.co/jTmpzCJ"><img src="https://i.ibb.co/jTmpzCJ/download20211002203647.png" alt="download20211002203647" border="0"></a>
    </div>
