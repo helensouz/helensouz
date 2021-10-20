@@ -17,7 +17,7 @@
 <img align="center" alt="Helen-Bootstrap" height="25" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
    </div>
    <div>
-    <img src="https://imgur.com/TuXtFyj" align="right" alt="HELEN-pic" height="150" style="border-radius:50px;">
+    <img src="https://discord.com/channels/@me/713835977055142019/900171735675043900" align="right" alt="HELEN-pic" height="150" style="border-radius:50px;">
    </div>
   
   
