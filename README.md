@@ -3,7 +3,7 @@
 
 <h1 align="center"> Eai👋, Me chamo Helen</h1>
 <h3 align="center">Uma desenvolvedora Full Stack com foco em Java</h3>
-<p>estudante de Análises e desenvolvimento de Sistemas.  Sou apaixonada por tech e por quebrar a cabeça resolvendo bugs.
+<p>Estudante de Análises e desenvolvimento de Sistemas.  Sou apaixonada por tech e por quebrar a cabeça resolvendo bugs.
 Bom, se chegou até aqui, fique a vontade para ver meus projetinhos! Ficarei muito feliz se der um follow também :)</p>
 
 
