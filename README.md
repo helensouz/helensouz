@@ -27,11 +27,6 @@ Bom, se chegou até aqui, fique a vontade para ver meus projetinhos! Ficarei mui
  <a href="https://ibb.co/jTmpzCJ"><img src="https://i.ibb.co/jTmpzCJ/download20211002203647.png" alt="download20211002203647" border="0"></a>
    </div>
   
-  <img align="center" alt="Helen-Js" height="25" width="75" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Helen-HTML" height="25" width="75" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
- <img align="center" alt="Helen-Java" height="25" width="75" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Helen-CSS" height="25" width="75" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="Helen-Bootstrap" height="25" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
    </div>
  
