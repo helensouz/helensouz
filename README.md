@@ -2,9 +2,9 @@
 
 
 # HI! I'm Helen 
-👩🏽‍💻Application Developer Front end intern at IBM 
-📍Angular | Typescript | Aws
-🎓Análises e desenvolvimento de sistemas  | UnicSul
+👩🏽‍💻Application Developer Front end intern at IBM </br>
+📍Angular | Typescript | Aws </br>
+🎓Análises e desenvolvimento de sistemas  | UnicSul </br>
 
 ## Linguagens com que trabalhei/trabalho
 
