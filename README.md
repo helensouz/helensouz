@@ -1,29 +1,6 @@
-
-
-
-# HI! I'm Helen  
-👩🏽‍💻Application Developer Front end intern at IBM </br>
-📍Angular | Typescript | Aws </br>
+👩🏽‍💻Computer Operator at IBM | Batch Mainframe </br>
+📍Angular | Typescript </br>
 🎓Análises e desenvolvimento de sistemas  | UnicSul </br>
-
-## Linguagens com que trabalhei/trabalho
-
- - Javascript
- - Typescript
- - Vue
- - Angular
- - MySql
- - MongoDB
- - Java
- - Spring Boot
-
-
-  
-  <a href="https://github.com/helensouz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helensouz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helensouz&layout=compact&langs_count=7&theme=dracula"/>
-   
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=helensouz&repo=helensouz&countColorcountColor)
 
  
 <div> 
